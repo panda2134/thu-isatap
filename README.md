@@ -1,3 +1,5 @@
+> No longer working as ISATAP access has been [disabled](https://thu.services/services/#isatap) by the school administration.
+
 # thu-isatap
 
 a script for Tsinghua Univ. ISATAP tunnels
